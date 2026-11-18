@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="ghost.gif" alt="pixel ghost" width="130" />
+<img src="pixel.gif" alt="pixel animation" width="130" />
 
 </div>
 
