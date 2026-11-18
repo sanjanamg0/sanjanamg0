@@ -15,14 +15,6 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,java,cpp,js,django,fastapi,flask,react,nodejs,postgres,mysql,mongodb,aws,docker,kubernetes,grafana,git,github,postman&perline=10&theme=dark" alt="Tech stack icons" />
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanamg0&theme=tokyo-night&hide_border=true&area=true&custom_title=My+Contribution+Graph&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" alt="Contribution activity graph" width="100%" />
 
 </div>
