@@ -15,16 +15,3 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanamg0&theme=tokyo-night&hide_border=true&area=true&custom_title=My+Contribution+Graph&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" alt="Contribution activity graph" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=100&section=footer" width="100%" alt="footer" />
-
-*Thanks for stopping by! ⭐*
-
-</div>
